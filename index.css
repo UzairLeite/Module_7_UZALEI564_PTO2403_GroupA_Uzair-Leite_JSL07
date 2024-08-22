@@ -96,6 +96,8 @@ h1, .modal-content h2, .modal-content p {
 
 .close {
   color: #dc7f5f;
+  height: 15px;
+  width: 50%;
 }
 
 /* Adding a fancy border to the certificate content */
